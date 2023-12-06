@@ -5,7 +5,7 @@
 
 <div>
     <h2>Overview</h2>
-    <p>This is my personal solution to <a href="https://www.freecodecamp.org/" target="_blank">Freecodecamp's</a> third <a href="https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer" target="_blank">Data Analysis with Python Challenge</a></p>
+    <p>This is my personal solution to <a href="https://www.freecodecamp.org/" target="_blank">Freecodecamp's</a> third <a href="https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer" target="_blank">Data Analysis with Python Challenge</a></p>
     <p>Data exploration on patient data to view how the relationship between cardiac disease goes along with body measurements, blood markers, and lifestyle choices.</p>
 </div>
 
